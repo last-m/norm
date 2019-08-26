@@ -1,2 +1,8 @@
 .idea
+workspace.xml
+vcs.xml
+deployment.xml
+modules.xml
+misc.xml
+norm_manager.iml
 config.php
