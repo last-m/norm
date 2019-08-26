@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf12cf4d-9d89-4a65-8725-e91ccab757db" name="ftp.last-m.com" url="http://last-m.com/">
+        <fileTransfer host="by112.atservers.net" port="22" rootFolder="/home/skepsys/www/last-m.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
